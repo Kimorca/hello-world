@@ -1,2 +1,6 @@
 # hello-world
-This's the begening of a great collaboration.
+Hi!
+
+Here I'm experiment GitHub.
+I hope I'll be an expert as soon as possible.
+
